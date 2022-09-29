@@ -1,7 +1,7 @@
 ## Welcome to my Github! 
 
 #### *Profile hits*  
-<img src="https://profile-counter.glitch.me/phucsaker99/count.svg" />
+<img src="https://profile-counter.glitch.me/vanphuc0503/count.svg" />
 
 ### Contact me
                   
@@ -11,8 +11,8 @@
 
 ### Skills
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=kotlin&sort=)
-[![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/phucsaker99?tab=repositories&q=&type=&language=java&sort=)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/vanphuc0503?tab=repositories&q=&type=&language=kotlin&sort=)
+[![Java](https://img.shields.io/badge/java-%23FF5722.svg?&style=for-the-badge&logo=java&logoColor=white&color=blue)](https://github.com/vanphuc0503?tab=repositories&q=&type=&language=java&sort=)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FF5722.svg?&style=for-the-badge&logo=Firebase&logoColor=white&color=FFCA28)](https://console.firebase.google.com/)
 
 ### My group & fanpage
@@ -50,6 +50,6 @@
 ### Github Stats
 
 <p width="100%">
-<img width="55%" align="top" max-height="100%" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=phucsaker99&show_icons=true" /> 
-<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucsaker99" />
+<img width="55%" align="top" max-height="100%" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanphuc0503&show_icons=true" /> 
+<img width="40%" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphuc0503" />
 </p>
